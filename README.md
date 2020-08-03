@@ -1,5 +1,5 @@
 # docminer
-mining documents in Box, live at https://sbm-it.github.io/docminer !
+mining documents in Box, live at https://episphere.github.io/docminer !
 
 MISC
 
