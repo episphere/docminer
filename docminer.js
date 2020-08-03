@@ -3,12 +3,12 @@ console.log('loaded docminer.js at '+ Date())
 //
 if(document.location.origin.match('http://localhost')){ 
     // SBM-IT DocMiner Dev <-- local development
-    docminer.clientId="lmhp028lnor0shfxxzvk7n1puci688yt"
-    localStorage.setItem('connectBoxAuth','6sXS01ZrUTlozu4SAh4tSy9I3dMWzgZJ')
+    docminer.clientId="52zad6jrv5v52mn1hfy1vsjtr9jn5o1w"
+    localStorage.setItem('connectBoxAuth','2rHTqzJumz8s9bAjmKMV83WHX1ooN4kT')
 }else{                                                  
     // SBM-IT DocMiner <-- gh-page deployment at https://sbm-it.github.io/docminer
-    docminer.clientId="yp20iu02pociuui5zo329copq2m2hrjo"
-    localStorage.setItem('connectBoxAuth','1EWktNu0dMj67A2XVzGHoEnewdkgNXZf')
+    docminer.clientId="1n44fu5yu1l547f2n2fgcw7vhps7kvuw"
+    localStorage.setItem('connectBoxAuth','2ZYzmHXGyzBcjZ9d1Ttsc1d258LiGGVd')
 }
 
 function docminer(){
